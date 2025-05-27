@@ -19,7 +19,7 @@
                <br><br>
                Senha<input type="password">
                <br><br>
-               <input type="button" value="entrar">
+               <input type="submit">
               </form>
         </body>
 </html>
